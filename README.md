@@ -27,4 +27,8 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ### Autores
 
 Gerson
+<<<<<<< HEAD
 Marilyn
+=======
+Francia
+>>>>>>> 79725bc62bd5824cedfe98409594dcf032001a61
