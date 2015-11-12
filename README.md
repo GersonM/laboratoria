@@ -37,14 +37,16 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ### Autores
 
 Gerson
-Brigette
-Jenny H. A.
-Francia
-Daniel
-Ruthmery
-Nathaly
-Veridiana
-Grace
+Judith,
+Raquel,
+Brigette,
+Jenny H. A.,
+Francia,
+Daniel,
+Ruthmery,
+Nathaly,
+Veridiana,
+Grace,
 Gerson,
 Marilyn,
 Brigette,
@@ -72,4 +74,4 @@ Fergie,
 Denisse,
 Ruthmery,
 Rosa,
-Milagros ,
+Milagros,
