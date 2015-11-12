@@ -26,9 +26,9 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 ### Autores
 
-Gerson
-Francia
-Daniel
-Jenny H. A.
-Ruthmery
+Gerson, 
+Francia, 
+Daniel, 
+Jenny H. A., 
+Ruthmery, 
 Veridiana
