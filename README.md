@@ -27,12 +27,14 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ### Autores
 
 Gerson
-<<<<<<< |HEAD
+
 Nathaly
-=======
+
+Jenny H. A.
+
 Francia
 Ruthmery
->>>>>>> b09d96d957ea392402965f43c7e1928dbf2bb207
+
 
 
 
@@ -45,3 +47,5 @@ Ruthmery
 
 
 Nathaly
+=======
+>>>>>>> 6d1235af77ed61000a29bb5618ec7173b46fd0a6
