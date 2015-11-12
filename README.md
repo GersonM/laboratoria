@@ -17,7 +17,7 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ## Notas importantes:
 
 - Como configuración incial, GIT necesita conocer tu nombre y correo electrónico
-- Si no puedes hacer un push correctamente es posible que antes, necesites hacer pull al repositorio.display. 
+- Si no puedes hacer un push correctamente es posible que antes, necesites hacer pull al repositorio.display.
 
 *¿Tienes algo que aportar?, agregalo aquí, sin miedo*
 
@@ -28,7 +28,15 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 Gerson
 <<<<<<< HEAD
+<<<<<<< HEAD
 Marilyn
 =======
 Francia
 >>>>>>> 79725bc62bd5824cedfe98409594dcf032001a61
+=======
+Jenny H. A.
+=======
+Francia
+Ruthmery
+>>>>>>> b09d96d957ea392402965f43c7e1928dbf2bb207
+>>>>>>> 6d1235af77ed61000a29bb5618ec7173b46fd0a6
