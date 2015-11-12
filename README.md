@@ -24,24 +24,18 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 **Este repositorio es público, se siempre respetuosa con las personas que podría llegar a leer tus mensajes**
 
-### Autores
 
-Gerson
 <<<<<<< HEAD
 
-
-
-
-
-
-Silvana
-
+=======
+Gerson
 Brigette
 Jenny H. A.
 Francia
 Daniel
-Jenny H. A.
 Ruthmery
+Nathaly
 Veridiana
+<<<<<<< HEAD
 Silvana,
->>>>>>> afcd6ac6d46a09a18b51f9628a0fa74126956fd3
+Jackeline
