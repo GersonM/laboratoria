@@ -1,4 +1,4 @@
-# Laboratoria - Test
+﻿# Laboratoria - Test
 
 Usaremos este repositorio para poder compartir archivos y realizar pruebas con GIT.
 
@@ -27,3 +27,4 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ### Autores
 
 Gerson
+Marilyn
