@@ -27,10 +27,13 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ### Autores
 
 Gerson
-<<<<<<< HEAD
-Jenny H. A.
-=======
 Francia
+Daniel
+Jenny H. A.
 Ruthmery
+<<<<<<< HEAD
 Gimena
 >>>>>>> b09d96d957ea392402965f43c7e1928dbf2bb207
+=======
+Veridiana
+>>>>>>> 3d756a0f00b8487b769038a641ca3362e32fc910
