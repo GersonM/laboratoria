@@ -27,15 +27,9 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ### Autores
 
 Gerson
+Jenny H. A.
 Francia
-<<<<<<< HEAD
-
-=======
 Ruthmery
->>>>>>> b09d96d957ea392402965f43c7e1928dbf2bb207
 
 
-
-
-
-kendy
+kendy,
