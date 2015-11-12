@@ -1,11 +1,9 @@
-<<<<<<< HEAD
+
 ﻿# Laboratoria - Test
 =======
 # laboratoria
 Repositorio del pueblo
->>>>>>> c05e740229eccfb6726492884ed1c6faa8e793fe
 
-<<<<<<< HEAD
 repo
 =======
 Usaremos este repositorio para poder compartir archivos y realizar pruebas con GIT.
@@ -32,12 +30,11 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 **Este repositorio es público, se siempre respetuosa con las personas que podría llegar a leer tus mensajes**
 
-<<<<<<< HEAD
 ### Autores
 
-Gerson
-Francia
-Ruthmery
+Gerson,
+Francia,
+Ruthmery,
 noelia,
 Brigette,
 Jenny H. A.,
