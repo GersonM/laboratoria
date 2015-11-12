@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 ﻿# Laboratoria - Test
+=======
+>>>>>>> 8ad1a8ec465ef96b18337604186be5379a88e5a1
 
+﻿# Laboratoria - Test
+=======
+# laboratoria
+Repositorio del pueblo
+
+repo
+=======
 Usaremos este repositorio para poder compartir archivos y realizar pruebas con GIT.
 
 ## Pasos para trabajar con repositorios GIT
@@ -26,6 +36,7 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 ### Autores
 
+<<<<<<< HEAD
 Gerson
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -54,3 +65,23 @@ Veridiana
 Veridiana
 
 >>>>>>> afcd6ac6d46a09a18b51f9628a0fa74126956fd3
+=======
+Gerson,
+Francia,
+Ruthmery,
+noelia,
+Brigette,
+Jenny H. A.,
+Veridiana,
+Nathaly,
+Jackeline,
+Gimena,
+Mercy
+Milagros,
+Silvana,
+Kendy,
+Maria de Fatima,
+Karina,
+Winniee,
+Ceci,
+>>>>>>> 8ad1a8ec465ef96b18337604186be5379a88e5a1
