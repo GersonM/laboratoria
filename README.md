@@ -28,7 +28,6 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 **Este repositorio es público, se siempre respetuosa con las personas que podría llegar a leer tus mensajes**
 
-
 Gerson,
 Brigette,
 Jenny H. A.,
@@ -43,6 +42,8 @@ Gimena,
 Mercy
 Milagros,
 Silvana,
-kendy,
+Kendy,
 Maria de Fatima,
 Karina,
+Winnie,
+Ceci,
