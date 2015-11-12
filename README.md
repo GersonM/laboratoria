@@ -1,5 +1,15 @@
-# Laboratoria - Test
+﻿<<<<<<< HEAD
+﻿# Laboratoria - Test
+=======
+>>>>>>> 8ad1a8ec465ef96b18337604186be5379a88e5a1
 
+﻿# Laboratoria - Test
+=======
+# laboratoria
+Repositorio del pueblo
+
+repo
+=======
 Usaremos este repositorio para poder compartir archivos y realizar pruebas con GIT.
 
 ## Pasos para trabajar con repositorios GIT
@@ -17,7 +27,7 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ## Notas importantes:
 
 - Como configuración incial, GIT necesita conocer tu nombre y correo electrónico
-- Si no puedes hacer un push correctamente es posible que antes, necesites hacer pull al repositorio.display. 
+- Si no puedes hacer un push correctamente es posible que antes, necesites hacer pull al repositorio.display.
 
 *¿Tienes algo que aportar?, agregalo aquí, sin miedo*
 
@@ -26,13 +36,38 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 ### Autores
 
-Gerson
-Francia
-
-
-
-
-
-
 
 Grace
+Gerson,
+Marilyn,
+Francia,
+Brigette,
+Jenny H. A.,
+Francia,
+Daniel,
+Jenny H. A.,
+Ruthmery,
+Veridiana,
+Gerson,
+Francia,
+Ruthmery,
+noelia,
+Brigette,
+Jenny H. A.,
+Veridiana,
+Nathaly,
+Jackeline,
+Gimena,
+Lillian
+Silvana,
+Mercy,
+Milagros,
+Silvana,
+Kendy,
+Maria de Fatima,
+Karina,
+Winniee,
+Ceci,
+Fergie,
+Denisse,
+
