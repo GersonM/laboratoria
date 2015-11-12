@@ -28,6 +28,7 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 <<<<<<< HEAD
 
 =======
+<<<<<<< HEAD
 Gerson,
 Brigette,
 Jenny H. A.,
@@ -39,3 +40,13 @@ Nathaly,
 Veridiana,
 Jackeline,
 Gimena,
+Gerson
+Brigette
+Jenny H. A.
+Francia
+Daniel
+Ruthmery
+Nathaly
+Veridiana
+Silvana,
+Jackeline
