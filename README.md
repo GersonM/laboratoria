@@ -31,3 +31,12 @@ Victoria Huallpa Barreto
 Jenny H. A.
 Francia
 Ruthmery
+Brigette
+Jenny H. A.
+Francia
+Daniel
+Jenny H. A.
+Ruthmery
+Veridiana
+
+
