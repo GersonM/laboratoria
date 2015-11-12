@@ -23,3 +23,7 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 
 **Este repositorio es público, se siempre respetuosa con las personas que podría llegar a leer tus mensajes**
+
+### Autores
+
+Gerson
