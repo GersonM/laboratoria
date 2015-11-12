@@ -41,7 +41,13 @@ Veridiana
 
 
 
+
 =======
 Jackeline
 >>>>>>> c2fecbfc545f783d6b81d9734594a72b472aeb38
 >>>>>>> 1eb0d53457635665f76de9e841090b62d139d2e2
+=======
+<<<<<<< HEAD
+Silvana,
+Jackeline
+>>>>>>> 54e74ff73a720e21805c07bc3019d85164c56549
