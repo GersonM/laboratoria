@@ -27,10 +27,11 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ### Autores
 
 Gerson
-Francia
-Ruthmery
+Brigette
 Jenny H. A.
-
-
+Francia
+Daniel
+Ruthmery
+Veridiana
 
 Karina,
