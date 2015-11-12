@@ -36,45 +36,26 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 ### Autores
 
+
+Grace
 Gerson,
 Marilyn,
-Francia,
 Brigette,
 Jenny H. A.,
 Francia,
 Daniel,
-Jenny H. A.,
-Ruthmery,
 Veridiana,
 Gerson,
 Francia,
 Ruthmery,
 noelia,
-Brigette,
-Jenny H. A.,
-Veridiana,
 Nathaly,
 Jackeline,
 Gimena,
-<<<<<<< HEAD
-Gerson
-Rosa
-Brigette
-Jenny H. A.
-Francia
-Daniel
-Ruthmery
-Nathaly
-Veridiana
-Silvana,
-Jackeline
-
-=======
 Lillian
 Silvana,
 Mercy,
 Milagros,
-Silvana,
 Kendy,
 Maria de Fatima,
 Karina,
@@ -82,4 +63,5 @@ Winniee,
 Ceci,
 Fergie,
 Denisse,
->>>>>>> 0d6c2ba3edcb5952f768e5c644292805d51b5863
+Ruthmery,
+Rosa,
