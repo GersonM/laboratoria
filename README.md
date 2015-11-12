@@ -25,14 +25,22 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 **Este repositorio es público, se siempre respetuosa con las personas que podría llegar a leer tus mensajes**
 
 
+<<<<<<< HEAD
 
-Gerson
-Brigette
-Jenny H. A.
-Francia
-Daniel
+=======
+Gerson,
+Brigette,
+Jenny H. A.,
+Francia,
+Daniel,
+Ruthmery,
+Veridiana,
+Nathaly,
+Veridiana,
+Jackeline,
+Gimena,
+Victoria Huallpa Barreto
 Ruthmery
-Nathaly
-Veridiana
-Jackeline
-kendy,
+Mercy _Milagros,
+Silvana,
+
