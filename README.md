@@ -39,4 +39,8 @@ Jenny H. A.
 Francia
 Ruthmery
 >>>>>>> b09d96d957ea392402965f43c7e1928dbf2bb207
+<<<<<<< HEAD
 >>>>>>> 6d1235af77ed61000a29bb5618ec7173b46fd0a6
+=======
+Veridiana
+>>>>>>> e59a64f2fec7591346308a9be806fd43551264d3
