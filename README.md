@@ -36,36 +36,16 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 ### Autores
 
-<<<<<<< HEAD
-Gerson
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Marilyn
-=======
-Francia
->>>>>>> 79725bc62bd5824cedfe98409594dcf032001a61
-=======
-=======
-Brigette
->>>>>>> afcd6ac6d46a09a18b51f9628a0fa74126956fd3
-Jenny H. A.
-Francia
-Daniel
-Jenny H. A.
-Ruthmery
-<<<<<<< HEAD
->>>>>>> b09d96d957ea392402965f43c7e1928dbf2bb207
-<<<<<<< HEAD
->>>>>>> 6d1235af77ed61000a29bb5618ec7173b46fd0a6
-=======
-Veridiana
->>>>>>> e59a64f2fec7591346308a9be806fd43551264d3
-=======
-Veridiana
-
->>>>>>> afcd6ac6d46a09a18b51f9628a0fa74126956fd3
-=======
+Gerson,
+Marilyn,
+Francia,
+Brigette,
+Jenny H. A.,
+Francia,
+Daniel,
+Jenny H. A.,
+Ruthmery,
+Veridiana,
 Gerson,
 Francia,
 Ruthmery,
@@ -76,7 +56,7 @@ Veridiana,
 Nathaly,
 Jackeline,
 Gimena,
-Mercy
+Mercy,
 Milagros,
 Silvana,
 Kendy,
@@ -84,4 +64,4 @@ Maria de Fatima,
 Karina,
 Winniee,
 Ceci,
->>>>>>> 8ad1a8ec465ef96b18337604186be5379a88e5a1
+Fergie,
