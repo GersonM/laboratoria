@@ -26,12 +26,14 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
-<<<<<<< HEAD
 =======
-=======
+>>>>>>> f7f13d3ffb3b41371cae2c300f78a569692a07a6
 <<<<<<< HEAD
+
+=======
 Gerson,
 Brigette,
 Jenny H. A.,
@@ -43,13 +45,15 @@ Nathaly,
 Veridiana,
 Jackeline,
 Gimena,
+<<<<<<< HEAD
 >>>>>>> 3ff5f2b383de4890749b2409dd2c9e02b9e795a1
 >>>>>>> 906d86841edc4e3d314ff48792bfb5445ffffa5e
 Gerson
+=======
+>>>>>>> f7f13d3ffb3b41371cae2c300f78a569692a07a6
 Victoria Huallpa Barreto
-Jenny H. A.
-Francia
 Ruthmery
+<<<<<<< HEAD
 Brigette
 Jenny H. A.
 Francia
@@ -80,3 +84,8 @@ Silvana,
 Jackeline
 >>>>>>> 54e74ff73a720e21805c07bc3019d85164c56549
 >>>>>>> 906d86841edc4e3d314ff48792bfb5445ffffa5e
+=======
+Mercy _Milagros,
+Silvana,
+kendy,
+>>>>>>> f7f13d3ffb3b41371cae2c300f78a569692a07a6
