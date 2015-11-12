@@ -31,3 +31,4 @@ Francia
 Daniel
 Jenny H. A.
 Ruthmery
+Veridiana
