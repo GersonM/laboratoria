@@ -24,16 +24,18 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 **Este repositorio es público, se siempre respetuosa con las personas que podría llegar a leer tus mensajes**
 
-### Autores
 
-Gerson
-Francia
-Daniel
-Jenny H. A.
-Ruthmery
 <<<<<<< HEAD
-Gimena
->>>>>>> b09d96d957ea392402965f43c7e1928dbf2bb207
+
 =======
-Veridiana
->>>>>>> 3d756a0f00b8487b769038a641ca3362e32fc910
+Gerson,
+Brigette,
+Jenny H. A.,
+Francia,
+Daniel,
+Ruthmery,
+Veridiana,
+Nathaly,
+Veridiana,
+Jackeline,
+Gimena,
