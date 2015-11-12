@@ -1,5 +1,15 @@
-# Laboratoria - Test
+﻿<<<<<<< HEAD
+﻿# Laboratoria - Test
+=======
+>>>>>>> 8ad1a8ec465ef96b18337604186be5379a88e5a1
 
+﻿# Laboratoria - Test
+=======
+# laboratoria
+Repositorio del pueblo
+
+repo
+=======
 Usaremos este repositorio para poder compartir archivos y realizar pruebas con GIT.
 
 ## Pasos para trabajar con repositorios GIT
@@ -26,6 +36,7 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 ### Autores
 
+<<<<<<< HEAD
 Gerson
 Brigette
 Jenny H. A.
@@ -34,3 +45,34 @@ Daniel
 Ruthmery
 Nathaly
 Veridiana
+=======
+
+Grace
+Gerson,
+Marilyn,
+Brigette,
+Jenny H. A.,
+Francia,
+Daniel,
+Veridiana,
+Gerson,
+Francia,
+Ruthmery,
+noelia,
+Nathaly,
+Jackeline,
+Gimena,
+Lillian
+Silvana,
+Mercy,
+Milagros,
+Kendy,
+Maria de Fatima,
+Karina,
+Winniee,
+Ceci,
+Fergie,
+Denisse,
+Ruthmery,
+Rosa,
+>>>>>>> 8e064e9ab13fe89083c46d0eab2d2e7900717fd3
