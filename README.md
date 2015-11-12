@@ -36,6 +36,8 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 ### Autores
 
+
+Grace
 Gerson,
 Marilyn,
 Francia,
@@ -56,6 +58,8 @@ Veridiana,
 Nathaly,
 Jackeline,
 Gimena,
+Lillian
+Silvana,
 Mercy,
 Milagros,
 Silvana,
@@ -66,3 +70,4 @@ Winniee,
 Ceci,
 Fergie,
 Denisse,
+Ruthmery
