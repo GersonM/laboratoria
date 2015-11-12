@@ -28,20 +28,24 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 **Este repositorio es público, se siempre respetuosa con las personas que podría llegar a leer tus mensajes**
 
-### Autores
 
-Gerson
-<<<<<<< HEAD
-Francia
->>>>>>> 79725bc62bd5824cedfe98409594dcf032001a61
-=======
 
-Brigette
-Jenny H. A.
-Francia
-Daniel
+
+Gerson,
+Brigette,
+Jenny H. A.,
+Francia,
+Daniel,
+Ruthmery,
+Veridiana,
+Nathaly,
+Veridiana,
+Jackeline,
+Gimena,
+Victoria Huallpa Barreto
 Ruthmery
-Nathaly
-Veridiana
+Mercy _Milagros,
+Silvana,
+kendy,
 Maria de Fatima
->>>>>>> c2fecbfc545f783d6b81d9734594a72b472aeb38
+
