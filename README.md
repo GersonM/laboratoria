@@ -17,7 +17,7 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ## Notas importantes:
 
 - Como configuración incial, GIT necesita conocer tu nombre y correo electrónico
-- Si no puedes hacer un push correctamente es posible que antes, necesites hacer pull al repositorio.display. 
+- Si no puedes hacer un push correctamente es posible que antes, necesites hacer pull al repositorio.display.
 
 *¿Tienes algo que aportar?, agregalo aquí, sin miedo*
 
@@ -27,4 +27,21 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ### Autores
 
 Gerson
+<<<<<<< |HEAD
+Nathaly
+=======
+Francia
+Ruthmery
+>>>>>>> b09d96d957ea392402965f43c7e1928dbf2bb207
+
+
+
+
+
+
+
+
+
+
+
 Nathaly
