@@ -4,13 +4,13 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 ## Pasos para trabajar con repositorios GIT
 
-1 Crear el repositorio
-2 Clonar el repositorio localmente
-3 Agregar archivos
-4 Hacer el primero commit
-5 Poner mensajes coherentes
-6 Hacer **pull**
-7 Hacer el primer **push**
+1. Crear el repositorio
+2. Clonar el repositorio localmente
+3. Agregar archivos
+4. Hacer el primero commit
+5. Poner mensajes coherentes
+6. Hacer **pull**
+7. Hacer el primer **push**
 
 *Si trabajamos en equipos verificar siempre si tenemos pull’s pendientes.*
 
