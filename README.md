@@ -26,5 +26,3 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 
 
-
-Jackeline Quispe Corrales
