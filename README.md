@@ -36,7 +36,6 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 ### Autores
 
-<<<<<<< HEAD
 Gerson
 Brigette
 Jenny H. A.
@@ -45,8 +44,6 @@ Daniel
 Ruthmery
 Nathaly
 Veridiana
-=======
-
 Grace
 Gerson,
 Marilyn,
@@ -75,4 +72,4 @@ Fergie,
 Denisse,
 Ruthmery,
 Rosa,
->>>>>>> 8e064e9ab13fe89083c46d0eab2d2e7900717fd3
+Milagros ,
