@@ -24,7 +24,7 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 **Este repositorio es público, se siempre respetuosa con las personas que podría llegar a leer tus mensajes**
 
-### Autores
+
 
 Gerson
 Victoria Huallpa Barreto
@@ -35,8 +35,13 @@ Brigette
 Jenny H. A.
 Francia
 Daniel
-Jenny H. A.
 Ruthmery
+Nathaly
 Veridiana
 
 
+
+=======
+Jackeline
+>>>>>>> c2fecbfc545f783d6b81d9734594a72b472aeb38
+>>>>>>> 1eb0d53457635665f76de9e841090b62d139d2e2
