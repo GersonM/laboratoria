@@ -31,5 +31,16 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ### Autores
 
 Gerson
+<<<<<<< HEAD
 Francia
 >>>>>>> 79725bc62bd5824cedfe98409594dcf032001a61
+=======
+
+Brigette
+Jenny H. A.
+Francia
+Daniel
+Ruthmery
+Nathaly
+Veridiana
+>>>>>>> c2fecbfc545f783d6b81d9734594a72b472aeb38
