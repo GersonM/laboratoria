@@ -17,7 +17,7 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 ## Notas importantes:
 
 - Como configuración incial, GIT necesita conocer tu nombre y correo electrónico
-- Si no puedes hacer un push correctamente es posible que antes, necesites hacer pull al repositorio.display. 
+- Si no puedes hacer un push correctamente es posible que antes, necesites hacer pull al repositorio.display.
 
 *¿Tienes algo que aportar?, agregalo aquí, sin miedo*
 
@@ -25,4 +25,16 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 **Este repositorio es público, se siempre respetuosa con las personas que podría llegar a leer tus mensajes**
 
 
+<<<<<<< HEAD
 
+=======
+Gerson
+Brigette
+Jenny H. A.
+Francia
+Daniel
+Ruthmery
+Nathaly
+Veridiana
+Jackeline
+>>>>>>> c2fecbfc545f783d6b81d9734594a72b472aeb38
