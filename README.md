@@ -30,6 +30,8 @@ Gerson
 Brigette
 Jenny H. A.
 Francia
+Daniel
+Jenny H. A.
 Ruthmery
 Veridiana
 
