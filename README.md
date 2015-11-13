@@ -26,10 +26,11 @@ Usaremos este repositorio para poder compartir archivos y realizar pruebas con G
 
 ### Autores
 
-Gerson,
-Brigette,
-Jenny H. A.,
-Francia,
-Daniel,
-Ruthmery,
-Veridiana,
+Gerson
+Brigette
+Jenny H. A.
+Francia
+Daniel
+Ruthmery
+Nathaly
+Veridiana
